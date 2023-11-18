@@ -108,6 +108,7 @@ export default function Board() {
       <div>
         <span align="right">
           <Profile/>
+          <AboutPage/>
         </span>
         <span align="left">
           <div className="board-row">
